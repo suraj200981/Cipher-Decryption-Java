@@ -21,8 +21,3 @@ as follows: the plaintext is written row-wise across six columns. The ciphertext
 formed by reading out successive columns in an arbitrary order (which you must
 figure out to decipher the message). Hint:look for common pairs of letters, such as
 'th'.
-Exercise 7 (6 marks)
-The plaintext comes from tess27.txt and is encoded with a general substitution
-cipher, using a randomly chosen mapping from the 27-character alphabet onto
-itself. Note that normally (i.e. except by chance) a vertical bar will be mapped
-onto some other letter of the alphabet.
